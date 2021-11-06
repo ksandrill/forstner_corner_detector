@@ -1,0 +1,3 @@
+"E:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\forstner_corner_detector.dir/objects.a
+D:\Qt_lib\Tools\mingw810_64\bin\ar.exe cr CMakeFiles\forstner_corner_detector.dir/objects.a @CMakeFiles\forstner_corner_detector.dir\objects1.rsp
+D:\Qt_lib\Tools\mingw810_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\forstner_corner_detector.dir/objects.a -Wl,--no-whole-archive -o forstner_corner_detector.exe -Wl,--out-implib,libforstner_corner_detector.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\forstner_corner_detector.dir\linklibs.rsp
